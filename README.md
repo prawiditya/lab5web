@@ -3,25 +3,7 @@ nama: prawiditya sahrul akbar
 nim: 312410146
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Praktikum 5 - JavaScript</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #fafafa; }
-        h1, h2 { color: #005bbb; }
-        hr { margin: 30px 0; }
-        input[type="text"], input[type="number"] { margin: 5px; padding: 5px; border-radius: 5px; border: 1px solid #ccc; }
-        button, input[type="button"] { padding: 6px 12px; margin-top: 10px; border: none; border-radius: 6px; background: #005bbb; color: white; cursor: pointer; }
-        button:hover, input[type="button"]:hover { background: #0074d9; }
-        .box { border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 25px; background: #fff; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
-        #hasilIdentitas { margin-top: 10px; font-weight: bold; color: #333; }
-    </style>
-</head>
-<body>
-    <h1>Praktikum 5 - JavaScript</h1>
+
 
     <!-- Bagian Identitas -->
     <div class="box">
